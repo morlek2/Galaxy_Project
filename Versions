@@ -1,0 +1,33 @@
+Galaxy Tools & Versions
+
+FASTQC: Galaxy Version 0.73
+Map with BWA-MEM: Galaxy Version 0.7.17.2
+FreeBayes: Galaxy Version 1.3.6
+Samtools stats: Galaxy Version 2.0.4
+bcftools stats: Galaxy Version 1.15.1
+Filter BAM: Galaxy Version 2.5.2
+Samtools idxstats: Galaxy Version 2.0.4
+table compute: Galaxy Version 1.2.4
+Samtools depth: Galaxy version 1.15.1
+CollectInsertSizeMetrics: Galaxy Version 2.18.2.1
+Samtools flagstat: Galaxy Version 2.0.4
+Filter data on any column using simple expressions: Galaxy version 1.1.1
+
+
+Variant Effect Predictor Databases & Versions
+
+VEP: v109
+1000genomes: phase3
+Assembly: GRCh37.p13
+Cache: 109_GRCh37
+ClinVar:202012
+COSMIC:92
+Database: homo_sapiens_core_109_37
+dbSNP: 154
+GENCODE: GENCODE 19
+Genebuild: 2011-04
+gnomADe: r2.1
+HGMD-PUBLIC: 20204
+Polyphen: 2.2.2
+Regbuild: 1.0
+SIFT: sift5.2.2
